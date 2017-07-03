@@ -4,7 +4,7 @@
  * @author corp\xuelong
  * @desc 所有在Bootstrap类中, 以_init开头的方法, 都会被Yaf调用,
  * @see http://www.php.net/manual/en/class.yaf-bootstrap-abstract.php
- *
+ * ijaidjif
  *
  *
  *
